@@ -1,4 +1,4 @@
-package com.finsther.evaluationscriptlet;
+package com.cocitodo.jasper;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
