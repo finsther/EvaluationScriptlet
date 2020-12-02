@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "editor.rulers": [
+        {
+            "column": 100,
+            "color": "#c8ff00b7"
+        },
+    ],
+}
